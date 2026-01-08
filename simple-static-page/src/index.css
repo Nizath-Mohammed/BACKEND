@@ -19,3 +19,17 @@ html, body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
 }
+
+.card {
+  display: flex;
+  padding: 10px;
+  
+}
+
+.card > div > img {
+  border-radius: 10px;
+}
+
+.card > div {
+  margin-left: 15px;
+}

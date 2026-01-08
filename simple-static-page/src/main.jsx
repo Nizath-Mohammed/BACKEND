@@ -18,16 +18,19 @@ createRoot(document.getElementById('root')).render(
     date = "December 15, 2023" 
     description = "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,389 feet). It is an active stratovolcano that last erupted in 1708." />
     
+    
     <Card location_img = {URL2} 
     place = "Sydney Opera House" 
     date = "March 28, 2023" 
     description = "The Sydney Opera House is a multi-venue performing arts centre in Sydney, Australia. It is one of the most recognizable buildings in the world." />
+    
     
     <Card location_img = {URL3} 
     place = "Northern Lights" 
     date = "November 10, 2023" 
     description = "The Northern Lights (Aurora Borealis) are natural light displays in the sky that occur in the polar regions." />
     
+  
   </StrictMode>
 )
  
